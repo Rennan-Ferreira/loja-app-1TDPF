@@ -1,6 +1,6 @@
 import {Link} from "next/link";
 
-export default function Home() {
+export default function Calca() {
     return (
       <>
         <h1>CALCA</h1>
